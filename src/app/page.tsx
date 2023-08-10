@@ -1,8 +1,3 @@
-'use client';
-
-import Label from './components/Label';
-import { WindowWidthProvider } from './context/WindowWidthContext';
-
 export default function Home() {
 	return (
 		<main className='h-full w-full flex items-center justify-center'>
